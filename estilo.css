@@ -1,0 +1,8 @@
+.categoria{
+    color: purple;
+    font-size: 30px;
+    text-align: center;
+}
+.categoria:hover{
+    color: red;
+}
